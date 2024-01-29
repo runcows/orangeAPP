@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">orangeTree</string>
+    <string name="tree">Tap the orange tree to select an orange</string>
+    <string name="fruit">Keep tapping the orange to squeeze it</string>
+    <string name="fullGlass">Tap the orange juice to drink it</string>
+    <string name="emptyGlass">Tap the empty glass to start again</string>
+    <string name="count">Games count: </string>
+</resources>
